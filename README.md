@@ -19,9 +19,14 @@ The SSCS Chipathon 2025 is an exciting opportunity for participants to explore c
 - [Participation Guidelines](docs/guidelines.md)
 - [Resources](docs/resources.md)
 
-## Communication
+## Communication in Element
 
-### Matrix Chat Channels
+### Element Matrix Chat Channels
+#### Getting Started with Element
+1. Visit [element.fossi-chat.org](https://element.fossi-chat.org/)
+2. Create an account or sign in
+3. Join both the chipathon-specific channel and the general chat
+4. Introduce yourself to the community!
 We use Element (a Matrix client) for all communications. There are two main channels:
 
 1. **Chipathon 2025 Channel**
@@ -40,11 +45,7 @@ We use Element (a Matrix client) for all communications. There are two main chan
      - Community engagement
      - Industry news and updates
 
-### Getting Started with Element
-1. Visit [element.fossi-chat.org](https://element.fossi-chat.org/)
-2. Create an account or sign in
-3. Join both the chipathon-specific channel and the general chat
-4. Introduce yourself to the community!
+
 
 ## Important Dates
 
