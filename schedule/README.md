@@ -1,63 +1,77 @@
 # SSCS Chipathon 2025 Schedule
 
-This document outlines the tentative schedule for the SSCS Chipathon 2025 event. All dates and times are subject to change, and updates will be communicated through this repository.
+This document outlines the official schedule for the SSCS Chipathon 2025 event. All dates and activities are subject to confirmation.
 
-## Timeline Overview
+## 🗓️ Detailed Timeline
 
-### Phase 1: Registration and Preparation
-- **January 2025**
-  - Registration Opens: January 15, 2025
-  - Early Bird Registration Deadline: January 31, 2025
+### Phase 1: Setup and Introduction
+| Week | Date | Event | Track Details |
+|------|------|-------|---------------|
+| Week 24 | June 09, 2025 | **Kick-off Meeting** | Introduction to chipathon phases (Mehdi) |
+| Week 25 | June 16, 2025 | **Tool Installation** | • Full custom (analog) tool chain in docker (Harald)<br>• gLayout additional steps (Saptarshi) |
+| Week 26 | June 23, 2025 | **Track Overviews** | • MOSbius Overview (Peter)<br>• gLayout Tutorial 1 (Saptarshi/Mehdi)<br>• VLSI I + Building Blocks & Flow (Amro, T. Edwards) |
+| Week 27 | June 30, 2025 | **Tutorial Sessions** | • GF180 Examples (Juan)<br>• gLayout Tutorial 2 (Saptarshi/Mehdi/Akira)<br>• VLSI II + Building Blocks & Flow |
 
-### Phase 2: Learning and Workshop Period
-- **February 2025**
-  - Introduction to Tools Workshop: February 1, 2025
-  - LLM Integration Workshop: February 15, 2025
-  - Basic Training Sessions: Throughout February
+### Phase 2: Team Formation and Project Planning
+| Week | Date | Event | Details |
+|------|------|-------|----------|
+| - | July 01, 2025 | **Team Formation Deadline** | - |
+| Week 28 | July 07, 2025 | **Project Proposal Review** | - |
+| Week 29 | July 14, 2025 | **Advanced Topics** | • Systematic Design of Analog CMOS Circuits (Boris)<br>• LLM RAG Finetuning & Training (Greg) |
+| Week 30 | July 21, 2025 | **LLM Integration** | • Tutorial: Schematic Database & Simulations (Peter)<br>• Introduction to CACE (Tim E.)<br>• LLM-assisted analog Layout (Saptarshi, Greg, Mehdi)<br>• LLM assisted Digital Flow (Amro, Greg) |
 
-### Phase 3: Design Phase
-- **March 2025**
-  - Design Kickoff: March 1, 2025
-  - Interim Design Review: March 15, 2025
-  - Design Submission Deadline: March 31, 2025
+### Phase 3: Design and Simulation
+| Week | Date | Event | Review Focus |
+|------|------|-------|--------------|
+| Week 31 | July 28, 2025 | **Schematic Review** | - |
+| Week 32 | Aug 04, 2025 | **Simulation Review (blocks)** | - |
+| Week 33 | Aug 11, 2025 | **Simulation Review (top level)** | - |
+| - | Aug 15, 2025 | **READiness Check & Go/No-go Decision** | - |
 
-### Phase 4: Evaluation and Awards
-- **April 2025**
-  - Design Evaluation Period: April 1-15, 2025
-  - Results Announcement: April 20, 2025
-  - Awards Ceremony: April 30, 2025
+### Phase 4: Layout and Verification
+| Week | Date | Event | Details |
+|------|------|-------|----------|
+| Week 34 | Aug 18, 2025 | **Layout Tutorial** | Layout, DRC, LVS, PEX (Mitch, Tim) |
+| Week 35 | Aug 25, 2025 | **Integration Tutorial** | Top level, ESD, padframe, packaging (Juan, Akira) |
+| Week 36 | Sept 01, 2025 | **Layout Review (blocks)** | - |
+| Week 37 | Sept 08, 2025 | **Layout Review (top level)** | - |
+| - | Sept 12, 2025 | **DRC Dry-run** | GDS to Channel Partner |
+| Week 38 | Sept 15, 2025 | **Verification** | Simulations w/ PEX + CACE |
+| Week 39 | Sept 22, 2025 | **Final Chip Review** | - |
+| - | Sept 26, 2025 | **Final Submission** | DRC-clean GDS to Channel Partner |
+| Week 40 | Sept 29, 2025 | **Post-mortem** | Project retrospective |
 
-## Detailed Workshop Schedule
+### Phase 5: Manufacturing and Testing
+| Date | Event |
+|------|--------|
+| February 2026 | Chips available for testing |
+| April 30, 2026 | Upload of Chip Test Results |
 
-### Introduction to Tools Workshop (February 1, 2025)
-- 09:00 - 10:30: Overview of Design Tools
-- 10:45 - 12:15: Hands-on Tutorial Session
-- 13:30 - 15:00: Best Practices and Guidelines
-- 15:15 - 16:45: Q&A and Practice Session
+## 📋 Track Overview
 
-### LLM Integration Workshop (February 15, 2025)
-- 09:00 - 10:30: Introduction to LLMs in Chip Design
-- 10:45 - 12:15: Integration Techniques
-- 13:30 - 15:00: Practical Examples
-- 15:15 - 16:45: Interactive Session
+The chipathon includes several parallel tracks:
+- **MOSbius Track**: Focus on analog design and simulation
+- **gLayout Track**: Layout and physical design
+- **Digital Design Track**: Digital circuit implementation
+- **Integration Track**: System integration and verification
 
-## Important Notes
+## 🎯 Legend
+- 🎓 **Presentations by mentors**: Technical sessions and tutorials
+- 👥 **Presentations by participants**: Reviews and demonstrations
 
-- All times are in UTC
-- Workshops will be recorded and made available for asynchronous access
-- Participants are expected to attend at least 75% of the workshop sessions
-- Design submissions must follow the guidelines provided in the [Participation Guidelines](../docs/guidelines.md)
+## ⚠️ Important Notes
 
-## Updates and Changes
+- All dates are subject to change
+- Participants should complete installations and review materials before their respective sessions
+- Regular attendance in tutorial sessions is highly recommended
+- Teams must meet all review deadlines to proceed to the next phase
+- The go/no-go decision on August 15 is a critical milestone for proceeding with manufacturing
 
-This schedule is tentative and subject to change. Any updates will be:
-1. Committed to this document
-2. Announced via the repository's issue tracker
-3. Communicated via email to registered participants
+## 📞 Support
 
-## Questions
-
-For any questions about the schedule, please:
-1. Check the [FAQ section](../docs/faq.md)
-2. Open an issue in the repository
-3. Contact the organizing committee 
+For questions about specific tracks, please contact the respective track leaders:
+- MOSbius: Peter Kinget, Juan M. Baquero
+- gLayout: Saptarshi Gosh, Akira Tsuchiya, Mehdi Saligane
+- Digital Design: Amro Tork, James Stine, Tim Edwards
+- Tooling: Harald Pretl, Saptarshi Gosh, Tim Edwards
+- Integration: Juan M. Baquero, Akira Tsuchiya 
