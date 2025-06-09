@@ -7,7 +7,7 @@ This document outlines the official schedule for the SSCS Chipathon 2025 event. 
 ### Phase 1: Setup and Introduction
 | Week | Date | Event | Track Details | Recording |
 |------|------|-------|---------------|-----------|
-| Week 24 | June 09, 2025 | **Kick-off Meeting** | Introduction to chipathon phases (Mehdi, Boris Murmann) | [📼 TBA]() |
+| Week 24 | June 09, 2025 | **Kick-off Meeting** | Introduction to chipathon phases (B. Murmann & M. Saligane) | [📼 TBA]() |
 | Week 25 | June 16, 2025 | **Tool Installation** | • Full custom (analog) tool chain in docker (Harald)<br>• gLayout additional steps (Saptarshi) | [📼 TBA]() |
 | Week 26 | June 23, 2025 | **Track Overviews** | • MOSbius Overview (Peter)<br>• gLayout Tutorial 1 (Saptarshi/Mehdi)<br>• VLSI I + Building Blocks & Flow (Amro, T. Edwards) | [📼 TBA]() |
 | Week 27 | June 30, 2025 | **Tutorial Sessions** | • GF180 Examples (Juan)<br>• gLayout Tutorial 2 (Saptarshi/Mehdi/Akira)<br>• VLSI II + Building Blocks & Flow | [📼 TBA]() |
