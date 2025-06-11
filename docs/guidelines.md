@@ -13,14 +13,13 @@ This document outlines the basic guidelines and requirements for participating i
 ## Project Requirements
 
 ### Technical Requirements
-- Projects must incorporate LLM-based tools in the chip design process
 - Designs must be implemented using the provided open-source tools
 - All submissions must include complete documentation and source files
 
 ### Documentation Requirements
 - Design documentation
 - Implementation details
-- LLM integration approach
+- LLM integration approach (if applicable)
 - Test results and validation data
 - Team information and contributions
 
@@ -39,16 +38,15 @@ This document outlines the basic guidelines and requirements for participating i
    - Complete design files
    - Documentation
    - Presentation slides
-   - Demo video (optional)
+   - Demo video (optional but highly recommended)
 
 ## Evaluation Criteria
 
 Projects will be evaluated based on:
 1. Innovation and Creativity (30%)
-2. Technical Implementation (30%)
-3. LLM Integration (20%)
-4. Documentation Quality (10%)
-5. Presentation (10%)
+2. Technical Implementation (40%)
+4. Documentation Quality (15%)
+5. Presentation (15%)
 
 ## Resources and Support
 
@@ -64,15 +62,4 @@ All participants are expected to:
 - Collaborate constructively
 - Follow ethical guidelines in AI/LLM usage
 
-## Important Links
 
-- [Event Schedule](../schedule/README.md)
-- [Resources](resources.md)
-- [FAQ](faq.md)
-
-## Questions and Support
-
-For questions or support:
-1. Open an issue in the repository
-2. Contact the organizing committee
-3. Join our Discord community (link to be provided) 
