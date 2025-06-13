@@ -2,7 +2,21 @@
 The installation process for Docker Desktop varies based on the platform you are using. Please follow the specific instructions for your platform.
 
 ## *Step 1:* Navigate to the Docker Desktop [website](https://docs.docker.com/get-started/introduction/get-docker-desktop/) and install the corresponding executables or binaries 
-  ### An excellent guide for Windows and Mac is available [here](https://medium.com/@javatechie/docker-installation-steps-in-windows-mac-os-b749fdddf73a)
+  An excellent guide for Windows and Mac is available [here](https://medium.com/@javatechie/docker-installation-steps-in-windows-mac-os-b749fdddf73a)
+
+  #### [Install Docker Desktop on Mac](https://docs.docker.com/desktop/setup/install/mac-install)
+
+  ![](../images/gs/image5.png)
+
+  #### [Install Docker Desktop on Windows](https://docs.docker.com/desktop/setup/install/windows-install)
+
+  ![](../images/gs/image9.png)
+
+  #### [Install Docker Desktop on Linux](https://docs.docker.com/desktop/setup/install/linux/)
+
+  ![](../images/gs/image1.png)
+
+
    <table border="0">
       <tr>
         <td width="15%">
