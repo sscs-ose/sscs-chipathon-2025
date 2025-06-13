@@ -3,7 +3,7 @@ The installation process for Docker Desktop varies based on the platform you are
 
 ## *Step 1:* Navigate to the Docker Desktop [website](https://docs.docker.com/get-started/introduction/get-docker-desktop/) and install the corresponding executables or binaries 
   ### An excellent guide for Windows and Mac is available [here](https://medium.com/@javatechie/docker-installation-steps-in-windows-mac-os-b749fdddf73a)
-   <table>
+   <table border="0">
       <tr>
         <td width="15%">
           <h3>Install Docker Desktop on Mac</h3>
@@ -53,7 +53,7 @@ The installation process for Docker Desktop varies based on the platform you are
       </table> 
 
 ## *Step 2:* Open the Docker Desktop app and agree to the Service Agreement and use recommended settings.
-   <table>
+   <table border="0">
       <tr>
         <td width="30%">
           <p>
@@ -70,7 +70,7 @@ The installation process for Docker Desktop varies based on the platform you are
     
     
 ## *Step 3:* Feel Free to skip the Account Creation dialogue. The skip option is in the top right.  
-  <table>
+  <table border="0">
         <tr>
           <td width="30%">
             <p>
@@ -85,7 +85,7 @@ The installation process for Docker Desktop varies based on the platform you are
 
 ## *Step 4:* Search for **IIC-OSIC-TOOLS** Docker image and pull it (Don’t run). 
    ### Note the `hpretl/iic..` prefix. This step will take some time and disk space on your machine.
-  <table>
+  <table border="0">
       <tr>
         <td width="30%">
           <p>
@@ -98,7 +98,7 @@ The installation process for Docker Desktop varies based on the platform you are
     </table>  
    
 ## *Step 5:* You should see the image name in the `images` (mid-left) in the Docker Desktop Dashboard after the download.
-  <table>
+  <table border="0">
       <tr>
         <td width="30%">
           <p>
@@ -115,7 +115,7 @@ The installation process for Docker Desktop varies based on the platform you are
 
 ## *Step 5:* Navigate to the [JKU-IIC-OSIC-Tools Repository](https://github.com/iic-jku/IIC-OSIC-TOOLS) and download it.
 You can download it as Zip too.
-<table>
+<table border="0">
       <tr>
         <td width="15%">
           <p>
@@ -136,7 +136,7 @@ This is also platform-dependent.
   - Once the package is installed, run the installer  
   - Reboot your computer after XQuartz is installed  
   - Launch the XQuartz application
-  <table>
+  <table border="0">
       <tr>
         <td width="15%">
           <h3>
