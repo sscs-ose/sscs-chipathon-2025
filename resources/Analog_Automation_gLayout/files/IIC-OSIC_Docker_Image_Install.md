@@ -1,7 +1,7 @@
-# We are going to use IIC-OSIC Docker image though Docker Desktop. 
+We are going to use IIC-OSIC Docker image though Docker Desktop. 
 The installation process for Docker Desktop varies based on the platform you are using. Please follow the specific instructions for your platform.
 
-## *Step 1:* Navigate to the Docker Desktop [website](https://docs.docker.com/get-started/introduction/get-docker-desktop/) and install the corresponding executables or binaries 
+- ### *Step 1:* Navigate to the Docker Desktop [website](https://docs.docker.com/get-started/introduction/get-docker-desktop/) and install the corresponding executables or binaries 
   An excellent guide for Windows and Mac is available [here](https://medium.com/@javatechie/docker-installation-steps-in-windows-mac-os-b749fdddf73a)
 
   #### [Install Docker Desktop on Mac](https://docs.docker.com/desktop/setup/install/mac-install)
@@ -16,7 +16,7 @@ The installation process for Docker Desktop varies based on the platform you are
 
   ![](../images/gs/image1.png)
 
-
+<!-- 
    <table border="0">
       <tr>
         <td width="15%">
@@ -64,10 +64,14 @@ The installation process for Docker Desktop varies based on the platform you are
         <td width="40%">
         </td>
       </tr>
-      </table> 
+      </table>  -->
 
-## *Step 2:* Open the Docker Desktop app and agree to the Service Agreement and use recommended settings.
-   <table border="0">
+- ### *Step 2:* Open the Docker Desktop app and agree to the Service Agreement and use recommended settings.
+
+![]("../images/gs/image19.png")
+![]("../images/gs/image2.png")
+
+   <!-- <table border="0">
       <tr>
         <td width="30%">
           <p>
@@ -80,7 +84,7 @@ The installation process for Docker Desktop varies based on the platform you are
         <td width="40%">
         </td>
       </tr>
-    </table>  
+    </table>   -->
     
     
 ## *Step 3:* Feel Free to skip the Account Creation dialogue. The skip option is in the top right.  
