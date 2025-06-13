@@ -1,6 +1,7 @@
 # gLayout Track Resources
 > 🚧 **Under Construction** 
-<!-- - [Brief Overview of the MOSbius Track](./files/MOSbius_Chipathon_2025_kinget_v1.pdf) -->
+
+- [Brief Overview of the gLayout](./files/Glayout_Overview.pdf) 
 
 - [gLayout GitHub Repo](https://github.com/ReaLLMASIC/gLayout)
 
