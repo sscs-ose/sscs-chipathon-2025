@@ -2,7 +2,7 @@
 
 This document outlines the official schedule for the SSCS Chipathon 2025 event.
 <br>All dates and activities are subject to confirmation.
-<br>The weekly zoom meeting is at 11AM Eastern Time at [this zoom link](https://us06web.zoom.us/j/83060635740?pwd=UbIWLnu8C7nyLTZE7JglzRgbwSa23r.1).
+<br>~~The weekly zoom meeting is at 11AM Eastern Time at [this zoom link]()~~.
 <br>Please follow the [Element Chipathon 2025 channel](https://matrix.to/#/#chipathon-2025:fossi-chat.org) for up-to-date information. 
 <br>Teams are expected to complete a report by Wednesday of each week.
 <br>Individuals should complete a report up until the week after they join a team.
